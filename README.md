@@ -107,7 +107,7 @@ To initiate the scraper, there are two methods available:
 - Executing the Python script directly:
 
     ```bash
-    spython main.py
+    python main.py
     ```
 
 Please be patient while the scraping process completes.
