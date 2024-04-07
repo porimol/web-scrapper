@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "web-scrapper"
+version = "0.1.0"
+description = ""
+authors = [
+    "Porimol Chandro <porimol.chandro@roche.com>",
+    "Patilda G Baluka <p.baluka@student.uw.edu.pl>"
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.1"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.3"
+lxml = "^5.2.1"
+scrapy = "^2.11.1"
+selenium = "^4.19.0"
+webdriver-manager = "^4.0.1"
+pandas-stubs = "^2.2.1.240316"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
