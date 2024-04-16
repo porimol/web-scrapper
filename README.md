@@ -10,6 +10,11 @@ To extract and process the data efficiently, we used various methods such as Scr
 
 Overall, our project showcases our ability to effectively gather and analyze data from online sources, demonstrating key concepts in web scraping and basic data manipulation using Python.
 
+## Teammates
+
+- Porimol Chandro
+- Patilda G Baluka
+
 ## Python Version
 
 Minimum python version should have 3.11.x or upper
